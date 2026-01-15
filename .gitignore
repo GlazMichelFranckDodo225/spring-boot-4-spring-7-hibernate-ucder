@@ -1,0 +1,33 @@
+HELP.md
+/spring-boot-4-spring-7-hibernate-ucder/target/
+/spring-boot-4-spring-7-hibernate-ucder/.mvn/wrapper/maven-wrapper.jar
+!**/spring-boot-4-spring-7-hibernate-ucder/src/main/**/target/
+!**/spring-boot-4-spring-7-hibernate-ucder/src/test/**/target/
+
+### STS ###
+/spring-boot-4-spring-7-hibernate-ucder/.apt_generated
+/spring-boot-4-spring-7-hibernate-ucder/.classpath
+.factorypath
+/spring-boot-4-spring-7-hibernate-ucder/.project
+/spring-boot-4-spring-7-hibernate-ucder/.settings
+/spring-boot-4-spring-7-hibernate-ucder/.springBeans
+/spring-boot-4-spring-7-hibernate-ucder/.sts4-cache
+
+### IntelliJ IDEA ###
+/spring-boot-4-spring-7-hibernate-ucder/.idea
+/spring-boot-4-spring-7-hibernate-ucder/*.iws
+/spring-boot-4-spring-7-hibernate-ucder/*.iml
+/spring-boot-4-spring-7-hibernate-ucder/*.ipr
+
+### NetBeans ###
+/spring-boot-4-spring-7-hibernate-ucder/nbproject/private/
+/spring-boot-4-spring-7-hibernate-ucder/nbbuild/
+/spring-boot-4-spring-7-hibernate-ucder/dist/
+/spring-boot-4-spring-7-hibernate-ucder/nbdist/
+/spring-boot-4-spring-7-hibernate-ucder/.nb-gradle/
+/spring-boot-4-spring-7-hibernate-ucder/build/
+!**/spring-boot-4-spring-7-hibernate-ucder/src/main/**/build/
+!**/spring-boot-4-spring-7-hibernate-ucder/src/test/**/build/
+
+### VS Code ###
+.vscode/spring-boot-4-spring-7-hibernate-ucder/
