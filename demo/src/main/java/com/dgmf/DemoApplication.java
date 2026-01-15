@@ -1,4 +1,4 @@
-package com.dgmf.demo;
+package com.dgmf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
